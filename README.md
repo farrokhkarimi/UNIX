@@ -1,5 +1,7 @@
 # Unix tutorial
-![PC](https://opensource.com/sites/default/files/u128651/ibm_pc_at.jpg)
+<div align="center">
+  <img src="https://opensource.com/sites/default/files/u128651/ibm_pc_at.jpg">
+</div>
 
 # Headlines
 - UNIX branches
