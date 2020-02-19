@@ -111,4 +111,5 @@
 
 **Thanks**
 
-Author: Farokh Karimi [LinkedIn](https://www.linkedin.com/in/farrokhkarimi), [Instagram](https://www.instagram.com/farrokhkarimi)
+Author: Farrokh Karimi  
+Contact: [LinkedIn](https://www.linkedin.com/in/farrokhkarimi), [Instagram](https://www.instagram.com/farrokhkarimi)
